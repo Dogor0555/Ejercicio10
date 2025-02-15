@@ -6,7 +6,7 @@ int dia = int.Parse(Console.ReadLine());
 switch (dia)
 {
     case 1:
-        Console.WriteLine("Lunes");
+        Console.WriteLine("Luness");
         break;
     case 2:
         Console.WriteLine("Martes");
